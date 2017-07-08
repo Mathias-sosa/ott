@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0, tvg-name="Canal 12" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/e3/12dc.png/revision/latest?cb=20160606080947"
-http://ayacucho.dnsalias.com:99100/hls/sanroque3/index.m3u8
+http://ayacucho.dnsalias.com:8989/hls/sanroque3/index.m3u8
 #EXTINF:1, tvg-name="NatGeo Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png"
-http://ayacucho.dnsalias.com:99100/hls/sanroque/index.m3u8
+http://ayacucho.dnsalias.com:8989/hls/sanroque/index.m3u8
