@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,Canal 12,tvg-logo="http://2.bp.blogspot.com/_YkZZPo1aKZU/SwX97Ofe7MI/AAAAAAAALdY/LRXKQaCUD5g/s1600/canaldoce.gif"
+#EXTINF:0,"Canal 12",tvg-logo="http://2.bp.blogspot.com/_YkZZPo1aKZU/SwX97Ofe7MI/AAAAAAAALdY/LRXKQaCUD5g/s1600/canaldoce.gif"
 http://ayacucho.dnsalias.com:8989/hls/sanroque_ch1/index.m3u8
-#EXTINF:0,A24,tvg-logo="http://www.a24.com/images/a24-logo.svg"
+#EXTINF:0,"A24",tvg-logo="http://www.a24.com/images/a24-logo.svg"
 http://ayacucho.dnsalias.com:8989/hls/sanroque_ch2/index.m3u8
