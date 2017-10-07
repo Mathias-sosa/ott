@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="http://sanatoriodelsalvador.com/cms/app/webroot/js/kcfinder/upload/images/logo_canal12_cordoba.png", TNT_SPORT_Internet
+#EXTINF:-1,tvg-logo="http://sanatoriodelsalvador.com/cms/app/webroot/js/kcfinder/upload/images/logo_canal12_cordoba.png", tnt_sport_I
 http://vodsanroque.dnsalias.com:8080/hls/tnt_sport/index.m3u8
-#EXTINF:-1,tvg-logo="http://www.a24.com/images/a24-logo.svg", TNT_SPORT_Local
+#EXTINF:-1,tvg-logo="http://www.a24.com/images/a24-logo.svg", tnt_sport_L
 http://192.168.98.50:8080/hls/tnt_sport/index.m3u8
-#EXTINF:-1,tvg-logo="", DOCE_Internet
+#EXTINF:-1,tvg-logo="", 12_I
 http://vodsanroque.dnsalias.com:8080/hls/doce/index.m3u8
-#EXTINF:-1,tvg-logo="http://www.a24.com/images/a24-logo.svg", DOCE_Local
+#EXTINF:-1,tvg-logo="http://www.a24.com/images/a24-logo.svg", 12_L
 http://192.168.98.50:8080/hls/doce/index.m3u8
