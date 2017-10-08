@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="http://sanatoriodelsalvador.com/cms/app/webroot/js/kcfinder/upload/images/logo_canal12_cordoba.png", tnt_sport_I
-http://vodsanroque.dnsalias.com:8080/hls/tnt_sport/index.m3u8
-#EXTINF:-1,tvg-logo="http://www.a24.com/images/a24-logo.svg", tnt_sport_L
-http://192.168.98.50:8080/hls/tnt_sport/index.m3u8
-#EXTINF:-1,tvg-logo="", 12_I
-http://vodsanroque.dnsalias.com:8080/hls/doce/index.m3u8
-#EXTINF:-1,tvg-logo="http://www.a24.com/images/a24-logo.svg", 12_L
-http://192.168.98.50:8080/hls/doce/index.m3u8
+#EXTINF:0,Boomerang
+http://ayacucho.dnsalias.com:8080/hls/boomerang/index.m3u8
+#EXTINF:0,Discovery Health
+http://ayacucho.dnsalias.com:8080/hls/discovery_health/index.m3u8
+#EXTINF:0,El Doce
+http://ayacucho.dnsalias.com:8080/hls/doce/index.m3u8
+#EXTINF:0,Space
+http://ayacucho.dnsalias.com:8080/hls/space/index.m3u8
+#EXTINF:0,Telemundo
+http://ayacucho.dnsalias.com:8080/hls/telemundo/index.m3u8
+#EXTINF:0,TNT
+http://ayacucho.dnsalias.com:8080/hls/tnt/index.m3u8
+#EXTINF:0,TNT Sports
+http://ayacucho.dnsalias.com:8080/hls/tnt_sport/index.m3u8
