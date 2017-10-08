@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1,Boomerang
+#EXTINF:-1 tvg-logo="http://www.iconninja.com/files/52/970/333/black-boomerang-mirror-icon.png",Boomerang
 http://ayacucho.dnsalias.com:8080/hls/boomerang/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-kiRbmIobN9c/TgEJT0UQG8I/AAAAAAAALAc/-tSayoFdFwU/s1600/discovery%2Bhome%2Band%2Bhealth.jpg",Discovery Health
 http://ayacucho.dnsalias.com:8080/hls/discovery_health/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal6cdb.com.ar/post/el-doce.jpg",El Doce
 http://ayacucho.dnsalias.com:8080/hls/doce/index.m3u8
-#EXTINF:-1,Space
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3104385571/aeb08da67f65aae66e9730ea2480f492_reasonably_small.jpeg",Space
 http://ayacucho.dnsalias.com:8080/hls/space/index.m3u8
-#EXTINF:-1,Telemundo
+#EXTINF:-1 tvg-logo="http://www.androidpolice.com/wp-content/cache/wp-appbox/8b435186bc6a3c2a73a38d3ab01dfbba/ai-b62d5fdf6e94294039d6374335a3f4ad",Telemundo
 http://ayacucho.dnsalias.com:8080/hls/telemundo/index.m3u8
-#EXTINF:-1,TNT
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/tpl/v3.1_tnt/logo_tnt.png",TNT
 http://ayacucho.dnsalias.com:8080/hls/tnt/index.m3u8
-#EXTINF:-1,TNT Sports
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/ios/1269273307/92257f135eeb1e046a3e6736fe51a91b",TNT Sports
 http://ayacucho.dnsalias.com:8080/hls/tnt_sport/index.m3u8
