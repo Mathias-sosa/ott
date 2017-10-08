@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:0,Boomerang
+#EXTINF:-1,Boomerang
 http://ayacucho.dnsalias.com:8080/hls/boomerang/index.m3u8
-#EXTINF:0,Discovery Health
+#EXTINF:-1 tvg-logo="http://www.canal6cdb.com.ar/post/el-doce.jpg",Discovery Health
 http://ayacucho.dnsalias.com:8080/hls/discovery_health/index.m3u8
-#EXTINF:0,El Doce
+#EXTINF:-1,El Doce
 http://ayacucho.dnsalias.com:8080/hls/doce/index.m3u8
-#EXTINF:0,Space
+#EXTINF:-1,Space
 http://ayacucho.dnsalias.com:8080/hls/space/index.m3u8
-#EXTINF:0,Telemundo
+#EXTINF:-1,Telemundo
 http://ayacucho.dnsalias.com:8080/hls/telemundo/index.m3u8
-#EXTINF:0,TNT
+#EXTINF:-1,TNT
 http://ayacucho.dnsalias.com:8080/hls/tnt/index.m3u8
-#EXTINF:0,TNT Sports
+#EXTINF:-1,TNT Sports
 http://ayacucho.dnsalias.com:8080/hls/tnt_sport/index.m3u8
