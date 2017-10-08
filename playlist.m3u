@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Boomerang
 http://ayacucho.dnsalias.com:8080/hls/boomerang/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.canal6cdb.com.ar/post/el-doce.jpg",Discovery Health
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-kiRbmIobN9c/TgEJT0UQG8I/AAAAAAAALAc/-tSayoFdFwU/s1600/discovery%2Bhome%2Band%2Bhealth.jpg",Discovery Health
 http://ayacucho.dnsalias.com:8080/hls/discovery_health/index.m3u8
-#EXTINF:-1,El Doce
+#EXTINF:-1 tvg-logo="http://www.canal6cdb.com.ar/post/el-doce.jpg",El Doce
 http://ayacucho.dnsalias.com:8080/hls/doce/index.m3u8
 #EXTINF:-1,Space
 http://ayacucho.dnsalias.com:8080/hls/space/index.m3u8
