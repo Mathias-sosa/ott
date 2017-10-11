@@ -13,3 +13,5 @@ http://ayacucho.dnsalias.com:8080/hls/telemundo/index.m3u8
 http://ayacucho.dnsalias.com:8080/hls/tnt/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/ios/1269273307/92257f135eeb1e046a3e6736fe51a91b",TNT Sports
 http://ayacucho.dnsalias.com:8080/hls/tnt_sport/index.m3u8
+#EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/montecarlo.png",Monte Carlo
+http://ayacucho.dnsalias.com:8080/hls/monte_carlo/index.m3u8
