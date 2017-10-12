@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="http://www.iconninja.com/files/52/970/333/black-boomerang-mirror-icon.png",Boomerang
 http://ayacucho.dnsalias.com:6081/hls/boomerang/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-kiRbmIobN9c/TgEJT0UQG8I/AAAAAAAALAc/-tSayoFdFwU/s1600/discovery%2Bhome%2Band%2Bhealth.jpg",Discovery Health
-http://ayacucho.dnsalias.com:6081/hls/discovery_health/index.m3u8
+http://ayacucho.dnsalias.com:8080/hls/discovery_health/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-jr8OENEHfZg/T0jnvIozjRI/AAAAAAAASYw/4Brp5YRJzZ4/s1600/canal10cordoba.png",El Diez
 http://ayacucho.dnsalias.com:6081/hls/diez/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3104385571/aeb08da67f65aae66e9730ea2480f492_reasonably_small.jpeg",Space
