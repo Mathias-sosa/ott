@@ -3,8 +3,8 @@
 http://192.168.98.50:8080/hls/boomerang/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-kiRbmIobN9c/TgEJT0UQG8I/AAAAAAAALAc/-tSayoFdFwU/s1600/discovery%2Bhome%2Band%2Bhealth.jpg",Discovery Health
 http://192.168.98.50:8080/hls/discovery_health/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.canal6cdb.com.ar/post/el-doce.jpg",El Doce
-http://192.168.98.50:8080/hls/doce/index.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-jr8OENEHfZg/T0jnvIozjRI/AAAAAAAASYw/4Brp5YRJzZ4/s1600/canal10cordoba.png",El Diez
+http://192.168.98.50:8080/hls/diez/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3104385571/aeb08da67f65aae66e9730ea2480f492_reasonably_small.jpeg",Space
 http://192.168.98.50:8080/hls/space/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.androidpolice.com/wp-content/cache/wp-appbox/8b435186bc6a3c2a73a38d3ab01dfbba/ai-b62d5fdf6e94294039d6374335a3f4ad",Telemundo
@@ -15,5 +15,5 @@ http://192.168.98.50:8080/hls/tnt/index.m3u8
 http://192.168.98.50:8080/hls/tnt_sport/index.m3u8
 #EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/montecarlo.png",Monte Carlo
 http://192.168.98.50:8080/hls/monte_carlo/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.canal6cdb.com.ar/post/el-doce.jpg",El Doce 2
-http://192.168.98.50:8080/hls/doce_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.prensario.net/Multimedios/imgs/3255_468.jpg",El Doce HD
+http://192.168.98.50:8080/hls/doce_hd/index.m3u8
