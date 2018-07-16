@@ -1,9 +1,8 @@
 #EXTM3U
-
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=150000
 
-http://streaming.dnsalias.com:4245/12.ts
+http://li1244-83.members.linode.com:6081/hls/doce/index.m3u8
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
 
-http://streaming.dnsalias.com:4245/13.ts
+http://li1244-83.members.linode.com:6081/hls/doce_test/index.m3u8
